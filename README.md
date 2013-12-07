@@ -12,6 +12,8 @@ If you want to use this module for your projects you should follow the next step
 * Add the next line into build.gradle file:
    compile project(':libraries:facebook')
 * You should rebuild the project 
+
+YOU MUST MODIFY local.properties file with your android sdk route
   
 
 THAT'S IT!
