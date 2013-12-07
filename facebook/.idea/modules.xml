@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Sitopia.iml" filepath="$PROJECT_DIR$/../../Sitopia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebook.iml" filepath="$PROJECT_DIR$/facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../libraries.iml" filepath="$PROJECT_DIR$/../libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../sitopia/sitopia.iml" filepath="$PROJECT_DIR$/../../sitopia/sitopia.iml" />
+    </modules>
+  </component>
+</project>
+
